@@ -1,0 +1,16 @@
+{
+    "home":{
+        "title":"Home"
+    },
+    "general":{
+        "button":{
+            "save":"save"
+        },
+        "diaolog":{
+            "version":{
+                "title" : "version",
+                "content" : "Version info"
+            }
+        }
+    }
+}
