@@ -30,7 +30,10 @@ dependencies:
   easy_localization: ^3.0.7+1
   
 
-  
+  #utility 
+  easy_logger: ^0.0.2
+  logger: ^2.6.1
+
 dependency_overrides:
   cupertino_icons: ^1.0.8
 
